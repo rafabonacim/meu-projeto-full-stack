@@ -1,0 +1,139 @@
+{
+  "pets": [
+    {
+      "nome": "Bob",
+      "idade": 2,
+      "raca": "pug",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "01-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "10-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "10-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Snoopy",
+      "idade": 4,
+      "raca": "pug",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "01-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Paçoca",
+      "idade": 10,
+      "raca": "vira-lata caramelo",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": [
+        {
+          "nome": "corte de unhas",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "corte de unhas",
+          "data": "01-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "10-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "10-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Rex",
+      "idade": 4,
+      "raca": "caramelo",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": [],
+      "castrado": true
+    }
+  ]
+}
