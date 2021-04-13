@@ -51,6 +51,10 @@
         {
           "nome": "banho",
           "data": "10-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "13-04-2021"
         }
       ],
       "castrado": true
@@ -121,6 +125,10 @@
         {
           "nome": "tosa",
           "data": "10-04-2021"
+        },
+        {
+          "nome": "tosa",
+          "data": "13-04-2021"
         }
       ],
       "castrado": true
