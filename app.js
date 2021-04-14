@@ -1,7 +1,7 @@
 const moment = require('moment');
 const fs = require('fs');
 const nomeArquivo = 'pets.json';
-const nomePetshop = "*** PETSHOP DH ***";
+const nomePetshop = " *** PETSHOP DH ***";
 
 //primeiro le o json e depois converte
 let petsJson = fs.readFileSync(nomeArquivo); //le o conteudo do arquivo
